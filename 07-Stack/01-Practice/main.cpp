@@ -3,7 +3,7 @@
 //
 //const int MAX = 5;
 //
-//int top;
+//int top = -1;
 //int data[MAX];
 //
 //bool isEmpty() {
